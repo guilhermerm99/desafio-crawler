@@ -31,6 +31,7 @@
   </h3>
  
   <h4>
+   
   - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver.</h4>
  
  <h3>
@@ -38,6 +39,7 @@
   </h3>
  
   <h4>
+   
   - Após realizar o primeiro passo, deve-se deixar o webdrive com a sua versão do Chrome na mesma pasta do main.py.</h4>
  
  <h3>
@@ -45,6 +47,7 @@
   </h3>
  
   <h4>
+   
   - Agora é só executar o código!</h4>
   
    <h3>
@@ -52,6 +55,7 @@
   </h3>
  
  <h4>
+  
   - Após executar o código, uma janela do Chrome se abrirá e fará todos os passos sozinha até chegar na página desejada, após chegar na página desejada, a janela se fechará e os dados solicitádos serão entregues no console.</h4>
 
  
