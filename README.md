@@ -2,7 +2,7 @@
 <img src="https://github.com/guilhermerm99/desafio-crawler/blob/main/eu.png" width="175px">
 </div>
 <h1 align="center">Desafio Crawler - Guilherme Ribeiro</h1>
-<h4 align="center">O wCrawler ou web crawler são termos utilizados para definir os algoritmos criados para a coleta de dados de diferentes fontes, também conhecidos por scraper. Resumidamente, os crawlers são robôs rastreadores ou bots desenvolvidos para realizar a varredura em sites, ou outras fontes (como banco de dados digitais), a fim de capturar informações relevantes. Dessa forma, é possível automatizar diversas tarefas de coleta de dados que são feitas manualmente, ao desenvolver um crawler que execute essas tarefas no lugar do ser humano.</h4>
+<h4 align="left">O wCrawler ou web crawler são termos utilizados para definir os algoritmos criados para a coleta de dados de diferentes fontes, também conhecidos por scraper. Resumidamente, os crawlers são robôs rastreadores ou bots desenvolvidos para realizar a varredura em sites, ou outras fontes (como banco de dados digitais), a fim de capturar informações relevantes. Dessa forma, é possível automatizar diversas tarefas de coleta de dados que são feitas manualmente, ao desenvolver um crawler que execute essas tarefas no lugar do ser humano.</h4>
 
 <h3 align="left">
 
@@ -25,9 +25,14 @@
 <h2 align="left">Como rodar o projeto?</h2>
 <h3 align="left">
 1º passo:
-  - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver <br>
+  - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver. <br>
+ 
 2º passo:
-  - Instalar as versões corretas da biblioteca, python e do chrome webdriver
+  - Após realizar o primeiro passo, deve-se deixar o webdrie na mesma pasta do main.py.
+ 
+3º passo:
+  - Agora é só rodar o código.
+
 </h3>
 
 
