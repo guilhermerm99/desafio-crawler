@@ -5,14 +5,15 @@
 <h4 align="center">O wCrawler ou web crawler são termos utilizados para definir os algoritmos criados para a coleta de dados de diferentes fontes, também conhecidos por scraper. Resumidamente, os crawlers são robôs rastreadores ou bots desenvolvidos para realizar a varredura em sites, ou outras fontes (como banco de dados digitais), a fim de capturar informações relevantes. Dessa forma, é possível automatizar diversas tarefas de coleta de dados que são feitas manualmente, ao desenvolver um crawler que execute essas tarefas no lugar do ser humano.</h4>
 
 <h3 align="left">
- ## Biblioteca Utlilizada:
-- [Selenium 4.4.3](https://pypi.org/project/selenium/)
 
 ## Versão do python:
 - [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
 
 ## Versão do Chrome WebDriver:
 - [ChromeDriver 104.0.5112.79](https://chromedriver.chromium.org/downloads)
+ 
+ ## Biblioteca Utlilizada:
+- [Selenium 4.4.3](https://pypi.org/project/selenium/)
  
 ## Não sabe qual a sua versão do Chrome?
 - Clique nos 3 pontinhos no canto superior direito.
