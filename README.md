@@ -15,7 +15,7 @@
 - [ChromeDriver 104.0.5112.79](https://chromedriver.chromium.org/downloads)
  
 ## Não sabe qual a sua versão do Chrome?
-- (chrome://settings/help)
+- [Versão do meu Chrome](chrome://settings/help)
 
 </h3>
 
