@@ -22,8 +22,8 @@
 - A versão se encontra na página que vai abrir.
 </h3>
 
-<h3 align="left">Como rodar o projeto?</h4>
-<h4 align="left">
+<h2 align="left">Como rodar o projeto?</h2>
+<h3 align="left">
 1º passo:
   - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver <br>
 2º passo:
