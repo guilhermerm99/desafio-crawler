@@ -52,7 +52,7 @@
   </h3>
  
  <h4>
-  - Após executar o código, uma janela do Chrome se abrirá e fará todos os passos sozinha, até chegar na página desejada, quando chegar na página desejada, a janela se fechará e os dados solicitádos serão entregues no console.</h4>
+  - Após executar o código, uma janela do Chrome se abrirá e fará todos os passos sozinha até chegar na página desejada, após chegar na página desejada, a janela se fechará e os dados solicitádos serão entregues no console.</h4>
 
  
 </h3>
