@@ -32,7 +32,11 @@
   - Após realizar o primeiro passo, deve-se deixar o webdrive com a sua versão do Chrome na mesma pasta do main.py.
  
 3º passo:
-  - Agora é só rodar o código!
+  - Agora é só executar o código!
+  
+  4º passo:
+  - Após executar o código, uma janela do Chrome se abrirá e fará todos os passos sozinha, até chegar na página desejada, quando chegar na página desejada, a janela se fechará e os dados solicitádos serão entregues no console.
+
  
 </h3>
 
