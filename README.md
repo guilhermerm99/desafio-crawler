@@ -6,7 +6,7 @@
 
 <h3 align="left">
  ## Biblioteca Utlilizada:
-- [Selenium](https://selenium-python.readthedocs.io/)
+- [Selenium 4.4.3]([https://selenium-python.readthedocs.io/](https://pypi.org/project/selenium/))
 
 ## Versão do python:
 - [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
