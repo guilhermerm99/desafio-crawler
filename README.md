@@ -29,11 +29,11 @@
   - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver. <br>
  
 2º passo:
-  - Após realizar o primeiro passo, deve-se deixar o webdrie na mesma pasta do main.py.
+  - Após realizar o primeiro passo, deve-se deixar o webdrive com a sua versão do Crhome na mesma pasta do main.py.
  
 3º passo:
-  - Agora é só rodar o código.
-
+  - Agora é só rodar o código!
+ 
 </h3>
 
 
