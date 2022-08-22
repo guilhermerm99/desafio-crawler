@@ -4,8 +4,8 @@
 <h1 align="center">Desafio Crawler - Guilherme Ribeiro</h1>
 <h4 align="center">O wCrawler ou web crawler são termos utilizados para definir os algoritmos criados para a coleta de dados de diferentes fontes, também conhecidos por scraper. Resumidamente, os crawlers são robôs rastreadores ou bots desenvolvidos para realizar a varredura em sites, ou outras fontes (como banco de dados digitais), a fim de capturar informações relevantes. Dessa forma, é possível automatizar diversas tarefas de coleta de dados que são feitas manualmente, ao desenvolver um crawler que execute essas tarefas no lugar do ser humano.</h4>
 
-<h3 align="center">
-## Biblioteca Utlilizada:
+<h3 align="left">
+ ## Biblioteca Utlilizada:
 - [Selenium](https://selenium-python.readthedocs.io/)
 
 ## Versão do python:
