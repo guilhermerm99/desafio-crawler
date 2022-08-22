@@ -27,13 +27,19 @@
 <h3 align="left">
  
 1º passo:
-  - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver. <br>
+ 
+  <h4>
+  - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver.</h4>
  
 2º passo:
-  - Após realizar o primeiro passo, deve-se deixar o webdrive com a sua versão do Chrome na mesma pasta do main.py.
+ 
+  <h4>
+  - Após realizar o primeiro passo, deve-se deixar o webdrive com a sua versão do Chrome na mesma pasta do main.py.</h4>
  
 3º passo:
-  - Agora é só executar o código!
+ 
+  <h4>
+  - Agora é só executar o código!</h4>
   
   4º passo:
  
