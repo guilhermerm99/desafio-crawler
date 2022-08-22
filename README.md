@@ -16,3 +16,12 @@
 
 </h3>
 
+<h4 align="center">Como rodar o projeto?</h4>
+<h3 align="center">
+## 1º passo:
+  - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver
+## 2º passo:
+  - Instalar as versões corretas da biblioteca, python e do chrome webdriver
+</h3>
+
+
