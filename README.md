@@ -24,9 +24,9 @@
 
 <h3 align="left">Como rodar o projeto?</h4>
 <h4 align="left">
-## 1º passo:
+1º passo:
   - Instalar as versões corretas da biblioteca Selenium, do Python e do chrome webdriver <br>
-## 2º passo:
+2º passo:
   - Instalar as versões corretas da biblioteca, python e do chrome webdriver
 </h3>
 
