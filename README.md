@@ -15,8 +15,10 @@
 - [ChromeDriver 104.0.5112.79](https://chromedriver.chromium.org/downloads)
  
 ## Não sabe qual a sua versão do Chrome?
-- [Versão do meu Chrome](chrome://settings/help)
-
+- Clique nos 3 pontinhos no canto superior direito.
+- Passe o mouse em cima da opção "Ajuda"
+- Clique em "Sobre o Google Chrome"
+- A versão se encontra na página que vai abrir.
 </h3>
 
 <h3 align="left">Como rodar o projeto?</h4>
