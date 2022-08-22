@@ -9,7 +9,7 @@
 - [Selenium](https://selenium-python.readthedocs.io/)
 
 ## Versão do python:
-- [Phyton 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
 
 ## Versão do Chrome WebDriver:
 - [ChromeDriver 104.0.5112.79](https://chromedriver.chromium.org/downloads)
